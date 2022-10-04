@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmayjotangia) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TanmayJotangia&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanmayJotangia&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayJotangia&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**TanmayJotangia/TanmayJotangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TanmayJotangia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
